@@ -1,0 +1,82 @@
+{
+	"default_configs": {
+		"dataset_name": "production"
+	},
+	"configs": [
+        {
+            "table_name": "tbl__bill_of_materials"
+        },
+        {
+            "table_name": "tbl__culture"
+        },
+        {
+            "table_name": "tbl__document"
+        },
+        {
+            "table_name": "tbl__illustration"
+        },
+        {
+            "table_name": "tbl__location"
+        },
+        {
+            "table_name": "tbl__product"
+        },
+        {
+            "table_name": "tbl__product_category"
+        },
+        {
+            "table_name": "tbl__product_cost_history"
+        },
+        {
+            "table_name": "tbl__product_description"
+        },
+        {
+            "table_name": "tbl__product_document"
+        },
+        {
+            "table_name": "tbl__product_inventory"
+        },
+        {
+            "table_name": "tbl__product_list_price_history"
+        },
+        {
+            "table_name": "tbl__product_model"
+        },
+        {
+            "table_name": "tbl__product_model_illustration"
+        },
+        {
+            "table_name": "tbl__product_model_product_description_culture"
+        },
+        {
+            "table_name": "tbl__product_photo"
+        },
+        {
+            "table_name": "tbl__product_product_photo"
+        },
+        {
+            "table_name": "tbl__product_review"
+        },
+        {
+            "table_name": "tbl__product_subcategory"
+        },
+        {
+            "table_name": "tbl__scrap_reason"
+        },
+        {
+            "table_name": "tbl__transaction_history"
+        },
+        {
+            "table_name": "tbl__transaction_history_archive"
+        },
+        {
+            "table_name": "tbl__unit_measure"
+        },
+        {
+            "table_name": "tbl__work_order"
+        },
+        {
+            "table_name": "tbl__work_order_routing"
+        }
+    ]
+} 

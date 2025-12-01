@@ -2,3 +2,4 @@ defaultProject: vunewbie-adventure-works
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.35
+defaultLocation: asia-southeast1

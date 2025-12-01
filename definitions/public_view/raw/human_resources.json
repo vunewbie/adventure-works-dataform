@@ -1,0 +1,25 @@
+{
+	"default_configs": {
+		"dataset_name": "human_resources"
+	},
+	"configs": [
+        {
+            "table_name": "tbl__department"
+        },
+        {
+            "table_name": "tbl__employee"
+        },
+        {
+            "table_name": "tbl__employee_department_history"
+        },
+        {
+            "table_name": "tbl__employee_pay_history"
+        },
+        {
+            "table_name": "tbl__job_candidate"
+        },
+        {
+            "table_name": "tbl__shift"
+        }
+    ]
+}
