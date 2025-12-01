@@ -1,0 +1,14 @@
+{
+	"configs": [
+		{
+			"stage": "raw",
+			"file_paths": [
+				"./raw/person.json",
+				"./raw/human_resources.json",
+				"./raw/production.json",
+				"./raw/purchasing.json",
+				"./raw/sales.json"
+			]
+		}
+	]
+}
