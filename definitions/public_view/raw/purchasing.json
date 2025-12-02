@@ -1,0 +1,22 @@
+{
+	"default_configs": {
+		"dataset_name": "purchasing"
+	},
+	"configs": [
+        {
+            "table_name": "tbl__product_vendor"
+        },
+        {
+            "table_name": "tbl__purchase_order_detail"
+        },
+        {
+            "table_name": "tbl__purchase_order_header"
+        },
+        {
+            "table_name": "tbl__ship_method"
+        },
+        {
+            "table_name": "tbl__vendor"
+        }
+    ]
+} 

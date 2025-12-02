@@ -1,0 +1,46 @@
+{
+	"default_configs": {
+		"dataset_name": "person"
+	},
+	"configs": [
+        {
+            "table_name": "tbl__address"
+        },
+        {
+            "table_name": "tbl__address_type"
+        },
+        {
+            "table_name": "tbl__business_entity"
+        },
+        {
+            "table_name": "tbl__business_entity_address"
+        },
+        {
+            "table_name": "tbl__business_entity_contact"
+        },
+        {
+            "table_name": "tbl__contact_type"
+        },
+        {
+            "table_name": "tbl__country_region"
+        },
+        {
+            "table_name": "tbl__email_address"
+        },
+        {
+            "table_name": "tbl__password"
+        },
+        {
+            "table_name": "tbl__person"
+        },
+        {
+            "table_name": "tbl__person_phone"
+        },
+        {
+            "table_name": "tbl__phone_number_type"
+        },
+        {
+            "table_name": "tbl__state_province"
+        }
+    ]
+} 

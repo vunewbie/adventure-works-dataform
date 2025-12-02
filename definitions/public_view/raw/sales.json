@@ -1,0 +1,64 @@
+{
+	"default_configs": {
+		"dataset_name": "sales"
+	},
+	"configs": [
+        {
+            "table_name": "tbl__country_region_currency"
+        },
+        {
+            "table_name": "tbl__credit_card"
+        },
+        {
+            "table_name": "tbl__currency"
+        },
+        {
+            "table_name": "tbl__currency_rate"
+        },
+        {
+            "table_name": "tbl__customer"
+        },
+        {
+            "table_name": "tbl__person_credit_card"
+        },
+        {
+            "table_name": "tbl__sales_order_detail"
+        },
+        {
+            "table_name": "tbl__sales_order_header"
+        },
+        {
+            "table_name": "tbl__sales_order_header_sales_reason"
+        },
+        {
+            "table_name": "tbl__sales_person"
+        },
+        {
+            "table_name": "tbl__sales_person_quota_history"
+        },
+        {
+            "table_name": "tbl__sales_reason"
+        },
+        {
+            "table_name": "tbl__sales_tax_rate"
+        },
+        {
+            "table_name": "tbl__sales_territory"
+        },
+        {
+            "table_name": "tbl__sales_territory_history"
+        },
+        {
+            "table_name": "tbl__shopping_cart_item"
+        },
+        {
+            "table_name": "tbl__special_offer"
+        },
+        {
+            "table_name": "tbl__special_offer_product"
+        },
+        {
+            "table_name": "tbl__store"
+        }
+    ]
+} 
